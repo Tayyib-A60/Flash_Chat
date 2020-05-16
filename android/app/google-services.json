@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260576516170",
+    "firebase_url": "https://flash-chat-ea41a.firebaseio.com",
+    "project_id": "flash-chat-ea41a",
+    "storage_bucket": "flash-chat-ea41a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260576516170:android:67f59c427f98b93cfc2eb3",
+        "android_client_info": {
+          "package_name": "tayyib_a60.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260576516170-d463k4ghlofh0dvuqsq9p0vic4lhjl34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3tmf4PLLG-I2ppQQA9WlOpfZgThwc7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260576516170-d463k4ghlofh0dvuqsq9p0vic4lhjl34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
